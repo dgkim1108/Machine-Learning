@@ -18,5 +18,4 @@
 - Using the Tensorflow
 - Prediction of Test Set
 
-### Blog : blog.naver.com/happying118
-### Email : sbnuri118@gmail.com
+### Blog : http://blog.naver.com/happying118
